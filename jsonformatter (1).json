@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "Topology",
   "transform": {
     "scale": [
@@ -153315,7 +153315,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Cidade": "Foz do Iguaçu"
+            "Nome": "Foz do Iguaçu"
           }
         },
         {
